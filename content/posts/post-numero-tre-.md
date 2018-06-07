@@ -1,6 +1,6 @@
 +++
 date = "2018-06-07T23:21:09+00:00"
-draft = true
+draft = false
 title = "Post numero TRE!"
 
 +++
