@@ -1,16 +1,16 @@
 ---
-title: "Post1"
-date: 2018-06-06T23:32:20+02:00
-draft: false
----
+title: Post1
+date: 2018-06-06 23:32:20 +0200
 
+---
 Il mio primo post!
 
 Amic!
 
-
 Come va?
 
-:beer:
+\:beer:
 
 ### Ciaone
+
+Editato Online!
