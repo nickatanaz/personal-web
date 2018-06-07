@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>
+      {{ .Site.Title }}
+    </title>
+    <script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.1/css/bulma.min.css" />
+  </head>
+  <body>
+    
+    {{ partial "header" . }}
+
+    {{ partial "nav" . }}
+
+    <main>
+        {{ block "main" . }}
+
+        {{ end }}
+    </main>
+
+    {{ partial "footer" . }}
+  </body>
+</html>

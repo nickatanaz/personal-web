@@ -1,0 +1,10 @@
+<div class="container">
+    <div>
+        {{ range .Pages}}
+        <div style="margin-bottom:20px;">
+            <h1 class="is-size-3">{{ .Title }}</h1>
+            <p> {{ .Content }} </p>
+        </div>
+        {{ end }}
+    </div>
+</div>
