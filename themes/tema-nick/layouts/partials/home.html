@@ -1,8 +1,8 @@
-<div class="container">
-    <div>
+<div class="home">
+    <div class="inner">
         {{ range .Pages}}
         <div style="margin-bottom:20px;">
-            <h1 class="is-size-3">{{ .Title }}</h1>
+            <h2>{{ .Title }}</h2>
             <p> {{ .Content }} </p>
         </div>
         {{ end }}

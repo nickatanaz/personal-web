@@ -6,11 +6,10 @@ draft: false
 
 Il mio primo post!
 
-Amic!
-
+Amic! **testo bold**
 
 Come va?
 
-:beer:
+:beer: :heart:
 
 ### Ciaone

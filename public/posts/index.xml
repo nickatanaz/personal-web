@@ -2,35 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on The Bestia</title>
-    <link>http://example.org/posts/</link>
+    <link>https://nickatanaz.github.io/posts/</link>
     <description>Recent content in Posts on The Bestia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 06 Jun 2018 23:32:20 +0200</lastBuildDate>
     
-	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://nickatanaz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Post1</title>
-      <link>http://example.org/posts/post1/</link>
+      <link>https://nickatanaz.github.io/posts/post1/</link>
       <pubDate>Wed, 06 Jun 2018 23:32:20 +0200</pubDate>
       
-      <guid>http://example.org/posts/post1/</guid>
+      <guid>https://nickatanaz.github.io/posts/post1/</guid>
       <description> Il mio primo post!
-Amic!
+Amic! testo bold
 Come va?
-🍺
+🍺 ❤️
 Ciaone </description>
     </item>
     
     <item>
       <title>Post2</title>
-      <link>http://example.org/posts/post2/</link>
+      <link>https://nickatanaz.github.io/posts/post2/</link>
       <pubDate>Wed, 06 Jun 2018 23:32:08 +0200</pubDate>
       
-      <guid>http://example.org/posts/post2/</guid>
-      <description>Il mio secondo post!</description>
+      <guid>https://nickatanaz.github.io/posts/post2/</guid>
+      <description>Il mio secondo post!
+ Ciao, questo è un blockquote
+ Aute ut minim adipisicing officia nisi irure sit nulla deserunt minim nostrud eu laborum. Quis deserunt irure dolore aute nulla velit velit aliquip Lorem. Et ipsum ut culpa incididunt consequat. Ut incididunt Lorem est eiusmod cillum quis id in. Laboris elit do deserunt laborum exercitation Lorem. Exercitation ut excepteur fugiat proident Lorem excepteur sint aliqua fugiat nulla.
+Excepteur voluptate consequat velit qui veniam excepteur.</description>
     </item>
     
   </channel>
